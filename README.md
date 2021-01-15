@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yuxi (Ethan) Chen</h1>
----
 <h3 align="center">A passionate machine learning learner</h3>
 
 - 🔭 I’m currently working on **Visual Recognition**
