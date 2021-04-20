@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethan707&label=Profile%20views&color=0e75b6&style=flat-square" alt="ethan707" /> </p>
 
-- 🔭 I’m currently working on **Visual Recognition**
+- 🔭 I’m currently working on **Heuristic Search**
 
 - 🌱 I’m currently learning **Deep learning & Reinforcement learning**
-
-- 👯 I’m looking to collaborate on [CAPTCHA Recognition](https://github.com/CMPUT466-ML-CAPTCHA/ML_CAPTCHA_Images_Decoder)
-
-- 🤝 I’m looking for help with **Heuristic Search**
 
 - 📝 I regularly write articles on [https://ethan404.ml](https://ethan404.ml)
 
