@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Deep learning & Reinforcement learning**
 
-- 📝 I regularly write articles on [https://ethan404.ml](https://ethan404.ml)
-
-- 📄 Know about my experiences [https://ethan404.ml/resume/](https://ethan404.ml/resume/)
+- 📝 I regularly write articles on [https://ethan404.ml](https://www.ethan404.me)
 
 - ⚡ Fun fact **Python is the best language in the world ;)**
 
