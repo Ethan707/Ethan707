@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethan707&label=Profile%20views&color=0e75b6&style=flat-square" alt="ethan707" /> </p>
 
-- 🔭 I’m currently working on **Heuristic Search**
+- 🔭 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **Deep learning & Reinforcement learning**
+- 🌱 I’m currently learning **Deep learning & Signal Processing**
 
 <!-- - 📝 I regularly write articles on [https://ethan404.me](https://www.ethan404.me) -->
 
