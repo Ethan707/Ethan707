@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep learning & Signal Processing**
 
-<!-- - 📝 I regularly write articles on [https://ethan404.me](https://www.ethan404.me) -->
+- 📝 I will regularly write articles on my [GitHub Pages](https://ethan707.github.io/)
 
 - ⚡ Fun fact **Python is the best language in the world ;)**
 
